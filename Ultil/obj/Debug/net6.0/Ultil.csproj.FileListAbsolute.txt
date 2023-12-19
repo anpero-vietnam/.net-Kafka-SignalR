@@ -1,0 +1,11 @@
+F:\KafkaSignalR\KafkaSignalR\Ultil\bin\Debug\net6.0\Ultil.deps.json
+F:\KafkaSignalR\KafkaSignalR\Ultil\bin\Debug\net6.0\Ultil.dll
+F:\KafkaSignalR\KafkaSignalR\Ultil\bin\Debug\net6.0\Ultil.pdb
+F:\KafkaSignalR\KafkaSignalR\Ultil\obj\Debug\net6.0\Ultil.GeneratedMSBuildEditorConfig.editorconfig
+F:\KafkaSignalR\KafkaSignalR\Ultil\obj\Debug\net6.0\Ultil.AssemblyInfoInputs.cache
+F:\KafkaSignalR\KafkaSignalR\Ultil\obj\Debug\net6.0\Ultil.AssemblyInfo.cs
+F:\KafkaSignalR\KafkaSignalR\Ultil\obj\Debug\net6.0\Ultil.csproj.CoreCompileInputs.cache
+F:\KafkaSignalR\KafkaSignalR\Ultil\obj\Debug\net6.0\Ultil.dll
+F:\KafkaSignalR\KafkaSignalR\Ultil\obj\Debug\net6.0\refint\Ultil.dll
+F:\KafkaSignalR\KafkaSignalR\Ultil\obj\Debug\net6.0\Ultil.pdb
+F:\KafkaSignalR\KafkaSignalR\Ultil\obj\Debug\net6.0\ref\Ultil.dll
